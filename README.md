@@ -1,4 +1,4 @@
 # Login Page
 
 - Login Page using React Js
-- Implements useEffect, useReducers and React Context API
+- Implements useEffect to prevent react to switch to default state when user is logged in
